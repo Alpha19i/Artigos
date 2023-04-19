@@ -1,6 +1,6 @@
 # Artigos
 
-Este repositório contém vários artigos, científicos ou didáticos, escritos por Evandro J.R. Silva, sob a licensa CC-BY-4.0.
+Este repositório contém vários artigos, científicos ou didáticos, escritos por Evandro J.R. Silva, sob a licença CC-BY-4.0.
 
 Lista de artigos em Português Brasileiro:
 
